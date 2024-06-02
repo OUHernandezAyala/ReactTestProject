@@ -1,6 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Sure, here's the translated README into English:
+
+---
+
+# Next.js Pokedex Project
+
+This project is a part of a technical test and consists of a web application similar to a Pokedex, which utilizes the PokeAPI to display information about the first 150 Pokémon.
+
+## Description
+
+This project was created as part of a technical test to demonstrate web development skills. The application uses React.js and consumes the PokeAPI to fetch data about Pokémon. Currently, it displays basic information about the first 150 Pokémon, including their name, type, and sprite.
+
+## Features
+
+- Viewing the first 150 Pokémon.
+- Basic information about each Pokémon, such as their name and types.
+
+## Technologies Used
+
+- React.js
+- PokeAPI
 
 ## Getting Started
+
+1. Clone this repository: `git clone https://github.com/your_username/pokedex.git`
+2. Install dependencies: `npm install`
+3. Start the application: `npm start`
+
+## Contribution
+
+Contributions are welcome. If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a branch for your feature: `git checkout -b new-feature`
+3. Make your changes and commit: `git commit -m 'Add new feature'`
+4. Push your changes to your repository: `git push origin new-feature`
+5. Create a pull request to the `main` branch of the original repository.
+
+
+---
+
+Feel free to replace `"your_username"` with your actual GitHub username and adjust any other information necessary to make it accurate for your project.
+
+## Run Project
 
 First, run the development server:
 
